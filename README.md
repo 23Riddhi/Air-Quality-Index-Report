@@ -1,2 +1,3 @@
-# Air-Quality-Index-Report
-This project presents a comprehensive Power BI dashboard showcasing Air Quality Index (AQI) data from multiple cities across India. It visualizes pollutant levels, identifies the most and least polluted cities, tracks AQI trends from 2015–2020, and provides geo-spatial insights using maps.
+🇮🇳 Air Quality Index Dashboard – India (Power BI)
+This repository contains an interactive Power BI dashboard that visualizes Air Quality Index (AQI) data across multiple cities in India. The dashboard provides a clear picture of pollution trends, major pollutants, and area-wise insights to support data-driven environmental analysis.
+
